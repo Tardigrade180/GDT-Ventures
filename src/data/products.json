@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Wireless Headphones",
+    "actualPrice": 15000,
+    "discountedPrice": 12000,
+    "image": "https://via.placeholder.com/300x200?text=Headphones",
+    "description": "High-quality wireless headphones with noise cancellation."
+  },
+  {
+    "id": 2,
+    "name": "Smartphone Case",
+    "actualPrice": 5000,
+    "discountedPrice": 4000,
+    "image": "https://via.placeholder.com/300x200?text=Case",
+    "description": "Durable protective case for smartphones."
+  },
+  {
+    "id": 3,
+    "name": "Bluetooth Speaker",
+    "actualPrice": 8000,
+    "discountedPrice": 6500,
+    "image": "https://via.placeholder.com/300x200?text=Speaker",
+    "description": "Portable speaker with excellent sound quality."
+  }
+]
